@@ -166,4 +166,60 @@
   html {
     font-size: 32.5%;
   }
+html {
+    font-size: 32.5%;
+  }
 }
+/* 576 px @media query {} */
+@media only screen and (max-width: 350px){
+.span_1_of_4:nth-child(3){
+    margin-left: 0;
+  }
+  .testimonial-section .client-review{
+    padding: 0;
+  }
+  .col .span_1_of_4 .box {
+    padding: 0;
+  }
+  .team-section .box{
+    padding: 1%;
+  }
+  .team-section p {
+	  font-size: 13px;
+  }
+  .title-description{
+    font-size: 13px;
+  }
+  .services-section p {
+	  font-size: 13px;	
+}
+	
+@media only screen and (max-width: 315px){
+   .span_1_of_4:nth-child(3){
+    margin-left: 0;
+  }
+  .testimonial-section .client-review{
+    padding: 0;
+  }
+  .col .span_1_of_4 .box {
+    padding: 0;
+  }
+  .team-section .box{
+    padding: 1%;
+  }
+  .team-section p {
+	  font-size: 13px;
+  }
+  .title-description{
+    font-size: 13px;
+  }
+  .services-section p {
+	  font-size: 13px;	
+}
+html {
+    font-size: 30.5%;
+  }
+}
+	
+
+	
