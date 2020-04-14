@@ -181,6 +181,9 @@ html {
   .col .span_1_of_4 .box {
     padding: 0;
   }
+  .services-section .box{
+    padding: 0%;
+  }
   .team-section .box{
     padding: 0%;
   }
@@ -205,6 +208,9 @@ html {
     padding: 0;
   }
   .team-section .box{
+    padding: 0%;
+  }
+  .services-section .box{
     padding: 0%;
   }
   .team-section p {
